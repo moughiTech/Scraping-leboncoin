@@ -2,7 +2,7 @@
 
 _English description
 
-Scrapy is used to extract reak estate offers in the city of Massy in france and uses MongoDB for the storage of this data.
+Scrapy is used to extract real estate offers in the city of Massy in france and uses MongoDB for the storage of this data.
 The scraping has been made with regards to the website's ROBOT.txt' policies. 
 
 The extraction of the web content made use of a pipeline of two modules (spiders):
